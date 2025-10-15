@@ -6,22 +6,11 @@
       "banner_id": "banner-001",
       "title": "집오와 함께 수학 실력 향상!",
       "description": "매일 문제를 풀고 복습하여 수학 실력을 키워보세요",
-      "image_url": "https://via.placeholder.com/400x120/0061f8/FFFFFF?text=Math+Event",
+      "image_url": "https://cdn.jsdelivr.net/gh/gyosim/jipoh-banners@main/images/banner1.png",
       "target_url": "https://example.com/math-event",
       "priority": 1,
       "status": "active",
       "start_date": "2024-01-01T00:00:00Z",
-      "end_date": "2025-12-31T23:59:59Z"
-    },
-    {
-      "banner_id": "banner-002",
-      "title": "새로운 기능 출시!",
-      "description": "복습 알림 기능으로 학습 효율을 높여보세요",
-      "image_url": "https://via.placeholder.com/400x120/00C896/FFFFFF?text=New+Feature",
-      "target_url": "https://example.com/new-feature",
-      "priority": 2,
-      "status": "active",
-      "start_date": "2024-10-01T00:00:00Z",
       "end_date": "2025-12-31T23:59:59Z"
     }
   ]
