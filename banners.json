@@ -7,7 +7,7 @@
       "title": "집오와 함께 수학 실력 향상!",
       "description": "매일 문제를 풀고 복습하여 수학 실력을 키워보세요",
       "image_url": "https://cdn.jsdelivr.net/gh/gyosim/jipoh-banners@main/images/banner1.png",
-      "target_url": "https://example.com/math-event",
+      "target_url": "https://gyosim.channel.io/home",
       "priority": 1,
       "status": "active",
       "start_date": "2024-01-01T00:00:00Z",
